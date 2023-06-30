@@ -156,8 +156,18 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "b6b7247f660a4fa5",
+  "active": "94a7e92fc361e8c2",
   "lastOpenFiles": [
+    "public/index.xml",
+    "public/tags/index.xml",
+    "public/posts/index.xml",
+    "public/categories/index.xml",
+    "public/tags",
+    "public/sitemap.xml",
+    "public/posts",
+    "public/categories",
+    "public",
+    "resources/_gen/images",
     "未命名.canvas",
     "content/posts/first_post.md"
   ]
