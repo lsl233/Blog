@@ -22,7 +22,7 @@ jobs:
       
       # 推送构建文件夹到另一个分支，例如 gh-pages 分支等
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3.11.0
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./public
