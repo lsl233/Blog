@@ -7,6 +7,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Initialize submodules
+        run: git submodule update --init --recursive
+
       - uses: actions/checkout@v3
 
       # 安装Hugo 
