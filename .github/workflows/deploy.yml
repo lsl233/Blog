@@ -13,16 +13,16 @@ jobs:
       - name: Initialize submodules
         run: git submodule update --init --recursive
 
-      - name: Check submodules status
-        run: |
-          git submodule foreach 'git fetch origin'
-          git submodule foreach 'git checkout $(git describe --tags)'
+        - name: Check submodules status
+          run: |
+            git submodule foreach 'git fetch origin'
+            git submodule foreach 'git checkout $(git describe --tags)'
 
       # 安装Hugo 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.82.0'
+          hugo-version: '0.115.0'
 
           
       # 构建Hugo site
