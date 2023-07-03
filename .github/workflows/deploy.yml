@@ -25,7 +25,6 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
-          
       # 构建Hugo site
       - name: Build
         run: |
