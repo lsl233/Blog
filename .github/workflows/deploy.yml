@@ -18,7 +18,7 @@ jobs:
       # 构建Hugo site
       - name: Build
         run: |
-          hugo --minify
+          hugo
       
       # 推送构建文件夹到另一个分支，例如 gh-pages 分支等
       - name: Deploy
