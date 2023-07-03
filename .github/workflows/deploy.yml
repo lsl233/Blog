@@ -1,7 +1,9 @@
 name: Deploy Site
 
 on:
-  push:
+  schedule:
+    # 每隔 10 分钟执行一次
+    - cron: '*/10 * * * *'
 
 jobs:
   deploy:
