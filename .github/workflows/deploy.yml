@@ -34,5 +34,5 @@ jobs:
 
       - name: Notice
         run: |
-          RESPONSE=$(curl -s "https://api.day.app/AgXLBLDNFVfDsNHYHtfAk4/blog%20deploy%20success")
+          RESPONSE=$(curl -s "https://api.day.app/AgXLBLDNFVfDsNHYHtfAk4/blog deploy success")
           echo "${RESPONSE}"
