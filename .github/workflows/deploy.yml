@@ -9,13 +9,13 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Initialize submodules
-        run: git submodule update --init --recursive
+      # - name: Initialize submodules
+      #   run: git submodule update --init --recursive
 
-      - name: Check submodules status
-        run: |
-          git submodule foreach 'git fetch origin'
-          git submodule foreach 'git checkout $(git describe --tags)'
+      # - name: Check submodules status
+      #   run: |
+      #     git submodule foreach 'git fetch origin'
+      #     git submodule foreach 'git checkout $(git describe --tags)'
 
       # 安装Hugo 
       - name: Setup Hugo
