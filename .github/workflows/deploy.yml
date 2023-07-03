@@ -8,7 +8,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Initialize submodules
-        run: git submodule update --init --recursive
+        run: |
+          cd themes\Dolt
+          git submodule update --init --recursive
 
       - uses: actions/checkout@v3
 
