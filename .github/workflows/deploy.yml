@@ -7,11 +7,9 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-
-
       - uses: actions/checkout@v3
 
-            - name: Initialize submodules
+      - name: Initialize submodules
         run: |
           git submodule update --init --recursive
 
