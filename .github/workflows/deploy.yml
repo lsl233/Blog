@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Initialize submodules
         run: |
-          cd themes\Dolt
+          cd ./themes/Dolt
           git submodule update --init --recursive
 
       - uses: actions/checkout@v3
