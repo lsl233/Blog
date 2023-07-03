@@ -157,6 +157,8 @@
   },
   "active": "b6b7247f660a4fa5",
   "lastOpenFiles": [
+    "content/post/hugo的使用与页面部署.md",
+    "content/post",
     "themes/DoIt/exampleSite/content/posts/tests/typeit-tests/index.en.md",
     "themes/DoIt/exampleSite/content/posts/tests/showcase-tests/index.en.md",
     "themes/DoIt/exampleSite/content/posts/tests/toc-tests/index.en.md",
@@ -182,7 +184,6 @@
     "themes/DoIt/exampleSite/content/tags/installation/_index.en.md",
     "themes/DoIt/exampleSite/content/tags/content/_index.zh-cn.md",
     "themes/DoIt/exampleSite/content/tags/content/_index.en.md",
-    "themes/DoIt/exampleSite/content/tags/configuration/_index.zh-cn.md",
     "themes/DoIt/exampleSite/content/posts/theme-documentation-extended-shortcodes/featured-image.webp",
     "themes/DoIt/exampleSite/content/posts/theme-documentation-extended-shortcodes/featured-image-preview.webp",
     "themes/DoIt/exampleSite/content/posts/theme-documentation-content/summary.zh-cn.webp",
@@ -202,7 +203,6 @@
     "themes/DoIt/exampleSite/content/posts/tests/mermaid-tests",
     "themes/DoIt/exampleSite/content/posts/tests/markdown-tests",
     "themes/DoIt/exampleSite/content/posts/tests/mapbox-tests",
-    "themes/DoIt/exampleSite/content/posts/tests/katex-tests",
     "未命名.canvas"
   ]
 }
