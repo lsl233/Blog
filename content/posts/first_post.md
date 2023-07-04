@@ -9,5 +9,4 @@ hello world！
 `--disableFastRender` 实时预览
 
 ### Meta
-```
-```
+`draft: false/false` 
