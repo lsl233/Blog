@@ -1,10 +1,7 @@
 baseURL = '/Blog'
 languageCode = 'en-us'
 title = 'LSL233'
-[author]
-  name = "LSL233"
-  email = "ahands233@gmail.com"
-  link = "hhttps://github.com/lsl233"
+
 
 theme = "DoIt"
 
