@@ -7,6 +7,7 @@ hello world！
 
 ### 命令行
 `--disableFastRender` 实时预览
+`-D/--buildDrafts` 渲染草稿文章
 
 ### Meta
-`draft: true/false` 草稿，不会渲染到页面，或者  渲染草稿文章
+`draft: true/false` 草稿，不会渲染到页面，或者  
