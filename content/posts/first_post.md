@@ -1,7 +1,7 @@
 ---
-title: "hello world！"
+title: "Hello World！"
 date: 2023-06-29T23:04:35+08:00
-draft: false
+draft: false # 草稿，不会渲染到页面，或者 -D/--buildDrafts 渲染草稿文章
 ---
 
 hello world！
