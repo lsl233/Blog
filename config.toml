@@ -1,6 +1,12 @@
 baseURL = '/Blog'
 languageCode = 'en-us'
 title = 'LSL233'
+name = "LSL233"
+email = "ahands233@gmail.com"
+link = "https://github.com/HEIGE-PCloud"
+avatar = "/images/avatar.webp"
+gravatarEmail = ""
+
 theme = "DoIt"
 
 [params]
