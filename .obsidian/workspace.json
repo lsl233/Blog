@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/hugo的使用与页面部署.md",
+                "file": "content/posts/first_post.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/hugo的使用与页面部署.md",
+                "file": "content/posts/first_post.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/hugo的使用与页面部署.md",
+                "file": "content/posts/first_post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/hugo的使用与页面部署.md"
+                "file": "content/posts/first_post.md"
               }
             }
           }
@@ -155,8 +155,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94a7e92fc361e8c2",
+  "active": "b6b7247f660a4fa5",
   "lastOpenFiles": [
+    "content/posts/hugo的使用与页面部署.md",
     "resources/_gen/assets/scss/blog/css/style.scss_26962b449d539ee5c1301a7879e5bb0e.json",
     "resources/_gen/assets/scss/blog/css/style.scss_26962b449d539ee5c1301a7879e5bb0e.content",
     "resources/_gen/assets/scss/blog/css",
@@ -167,7 +168,6 @@
     "public/css/style.min.css.map",
     "public/tags/index.html",
     "public/categories/index.html",
-    "public/posts/first_post/index.html",
     "public/lib/webfonts/fa-solid-900.svg",
     "public/lib/webfonts/fa-regular-400.svg",
     "public/lib/webfonts/fa-brands-400.svg",
@@ -180,7 +180,6 @@
     "themes/DoIt/static/lib/webfonts/fa-regular-400.svg",
     "themes/DoIt/layouts/_default/single.md",
     "content/posts/first_post.md",
-    "content/posts/hugo的使用与页面部署.md",
     "themes/DoIt/exampleSite/content/posts/tests/typeit-tests/index.en.md",
     "themes/DoIt/exampleSite/content/posts/tests/showcase-tests/index.en.md",
     "themes/DoIt/exampleSite/content/posts/tests/toc-tests/index.en.md",
