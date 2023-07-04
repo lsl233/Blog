@@ -155,8 +155,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b6b7247f660a4fa5",
+  "active": "94a7e92fc361e8c2",
   "lastOpenFiles": [
+    "themes/DoIt/assets/jsconfig.json",
+    "themes/DoIt/theme.toml",
     "themes/DoIt/static/lib/katex/fonts/KaTeX_Typewriter-Regular.woff2",
     "themes/DoIt/static/lib/katex/fonts/KaTeX_Typewriter-Regular.ttf",
     "themes/DoIt/static/lib/katex/fonts/KaTeX_Typewriter-Regular.woff",
@@ -166,8 +168,6 @@
     "themes/DoIt/static/lib/katex/fonts/KaTeX_Size3-Regular.woff2",
     "themes/DoIt/static/lib/katex/fonts/KaTeX_Size3-Regular.woff",
     "themes/DoIt/static/lib/katex/fonts/KaTeX_Size3-Regular.ttf",
-    "themes/DoIt/static/lib/katex/fonts/KaTeX_Size2-Regular.woff2",
-    "themes/DoIt/static/lib/katex/fonts/KaTeX_Size2-Regular.woff",
     "themes/DoIt/static/lib/webfonts/fa-solid-900.svg",
     "themes/DoIt/static/lib/webfonts/fa-regular-400.svg",
     "themes/DoIt/static/lib/webfonts/fa-brands-400.svg",
