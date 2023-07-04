@@ -1,7 +1,7 @@
 ---
 title: "Hello World！"
 date: 2023-06-29T23:04:35+08:00
-draft: false # 草稿，不会渲染到页面，或者 -D/--buildDrafts 渲染草稿文章
+draft: false
 ---
 hello world！
 
@@ -9,4 +9,4 @@ hello world！
 `--disableFastRender` 实时预览
 
 ### Meta
-`draft: true/false` 草稿
+`draft: true/false` 草稿，不会渲染到页面，或者  渲染草稿文章
