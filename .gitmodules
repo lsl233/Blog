@@ -2,3 +2,6 @@
 	path = themes/DoIt
 	# url = https://gitclone.com/HEIGE-PCloud/DoIt.git
 	url = https://github.com/HEIGE-PCloud/DoIt.git
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git

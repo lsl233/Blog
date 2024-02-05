@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'LSL233'
 
 
-theme = "DoIt"
+theme = "hugo-theme-console"
 
 [params]
   # DoIt 主题版本
